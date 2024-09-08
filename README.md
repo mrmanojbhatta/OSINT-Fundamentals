@@ -71,4 +71,4 @@
     <li><strong>Blockchain and Decentralized Networks:</strong> Exploring intelligence gathering from blockchain transactions and decentralized platforms.</li>
 </ul>
 
-<h2>Manoj Bhatta (OSINT Expert) from Nepal</h2>
+<h2>OSINT Expert from Nepal</h2>
